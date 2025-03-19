@@ -1,0 +1,9 @@
+{
+  "in_dim": 1024,
+  "n_classes": 2,
+  "num_layers": 2,
+  "hidden_feat": 256,
+  "num_heads": 8,
+  "topk": 1,
+  "ln": false
+}

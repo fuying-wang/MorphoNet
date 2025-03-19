@@ -1,0 +1,9 @@
+{
+    "in_dim": 1024,
+    "embed_dim": 512,
+    "dropout": 0.1,
+    "num_layers": 3,
+    "n_classes": 2,
+    "pooling": "attention"
+  }
+  

@@ -1,0 +1,1 @@
+# Here we write a GNN baseline to compare with fisher embedding
